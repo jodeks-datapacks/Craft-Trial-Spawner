@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "###",
+      "#E#",
+      "#S#"
+  ],
+  "key": {
+      "#": "minecraft:chain",
+      "E": "minecraft:enchanted_golden_apple",
+      "S": "minecraft:sculk_shrieker"
+  },
+  "result": {
+      "id": "minecraft:vault",
+      "count": 1
+  }
+}

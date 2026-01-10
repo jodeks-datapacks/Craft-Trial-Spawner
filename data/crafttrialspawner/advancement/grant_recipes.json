@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "crafttrialspawner:trial_spawner",
+      "crafttrialspawner:ominous_trial_key",
+      "crafttrialspawner:trial_key",
+      "crafttrialspawner:vault"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iCi",
+        "COC",
+        "CBC"
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "C": "minecraft:chain",
+        "O": "minecraft:ominous_bottle",
+        "B": "minecraft:beacon"
+    },
+    "result": {
+        "id": "minecraft:trial_spawner",
+        "count": 1
+    }
+}
