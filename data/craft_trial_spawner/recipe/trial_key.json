@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "#E#",
+      " # ",
+      " cc"
+  ],
+  "key": {
+      "#": "minecraft:tuff",
+      "E": "minecraft:end_crystal",
+      "c": "minecraft:copper_ingot"
+  },
+  "result": {
+      "id": "minecraft:trial_key",
+      "count": 1
+  }
+}

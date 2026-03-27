@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "#E#",
+      " # ",
+      " BB"
+  ],
+  "key": {
+      "#": "minecraft:tuff",
+      "E": "minecraft:end_crystal",
+      "B": "minecraft:breeze_rod"
+  },
+  "result": {
+      "id": "minecraft:ominous_trial_key",
+      "count": 1
+  }
+}

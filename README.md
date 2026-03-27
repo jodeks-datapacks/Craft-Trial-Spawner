@@ -1,25 +1,18 @@
-# Craft Trial Spawner & Key
+<div align="center">
+  
+![craft trial spawner datapack/mod title image minecraft](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/craft_trial_spawner.png)
 
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green" alt="Sponsor @Jodek" />
-</a>
+</div>
 
-###
+<div align="center">
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
- </picture><br>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+[![jodeks datapacks discord](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![jodeks datapacks matrix](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![craft trial spawner minecraft datapack github issues](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Issues.png)](https://github.com/jodeks-datapacks/craft-trial-spawner/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Sponsor.png)](https://github.com/sponsors/Jodekq)
 
-**Adds a crafting recipe for:**
-
-- Trial Spawners
-
-- Trial Keys
-
-- Vaults
+</div>
 
 ## Crafting Recipes
 

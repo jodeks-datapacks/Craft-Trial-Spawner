@@ -1,0 +1,40 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&craft_trial_spawner_advancements"
+              },
+              "score": "jodek.config"
+            },
+            "range": 0
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "advancements": {
+                  "jodek:craft_trial_spawner": true,
+                  "jodek:root": true,
+                  "jodek:crafting": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "craft_trial_spawner:remove_advancements"
+  }
+}

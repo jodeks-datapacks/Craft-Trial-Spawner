@@ -4,12 +4,6 @@
       "id": "minecraft:player_head",
       "components": {
         "minecraft:profile": {
-          "id": [
-            -678894869,
-            -1704640057,
-            -1185339821,
-            1705315599
-          ],
           "properties": [
             {
               "name": "textures",
@@ -19,9 +13,8 @@
         }
       }
     },
-    "title": "Jodeks Datapacks                                                                       ",
+    "title": "Jodeks Datapacks                       ",
     "description": [
-      "",
       {
         "text": "Creator of vanilla friendly datapacks\n",
         "color": "white"
@@ -38,11 +31,28 @@
     "background": "minecraft:block/flowering_azalea_leaves",
     "frame": "challenge",
     "show_toast": false,
-    "announce_to_chat": false
+    "announce_to_chat": false,
+    "hidden": true
   },
   "criteria": {
     "tick": {
-      "trigger": "minecraft:tick"
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&craft_trial_spawner_advancements"
+              },
+              "score": "jodek.config"
+            },
+            "range": 1
+          }
+        ]
+      }
     }
   }
 }

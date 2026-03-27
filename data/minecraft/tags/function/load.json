@@ -1,6 +1,6 @@
 {
   "values": [
-  "crafttrialspawner:app/load",
-  "crafttrialspawner:app/load_message"
-]
+    "craft_trial_spawner:app/setup",
+    "craft_trial_spawner:app/load_message"
+  ]
 }
