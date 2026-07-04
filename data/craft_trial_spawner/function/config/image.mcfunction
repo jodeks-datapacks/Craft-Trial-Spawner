@@ -16,7 +16,7 @@ function craft_trial_spawner:image/set_image_data {\
     {text: "Craft Trial Spawner"},\
     {translate: "craft_trial_spawner.description", fallback: "Crafting recipes for Trial Spawner, Keys and Vaults"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.0.3", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.0.4", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/craft-trial-spawner-key", color: "#a800a8"},\
